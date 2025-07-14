@@ -8,6 +8,7 @@ FreeCodeCamp Python for Data Science --> https://www.youtube.com/watch?v=LHBE6Q9
 
 ## Projects:
 Pokemon Data Analysis --> https://www.kaggle.com/datasets/abcsds/pokemon/data
+
 Basketball Birthday Paradox Analysis --> https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=player_data.csv
   
 
