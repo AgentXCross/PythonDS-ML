@@ -10,5 +10,9 @@ FreeCodeCamp Python for Data Science --> https://www.youtube.com/watch?v=LHBE6Q9
 Pokemon Data Analysis --> https://www.kaggle.com/datasets/abcsds/pokemon/data
 
 Basketball Birthday Paradox Analysis --> https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=player_data.csv
+
+Google PlayStore App Analysis --> https://www.kaggle.com/datasets/lava18/google-play-store-apps
+
+Premier League Match Data Analysis --> https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022
   
 
