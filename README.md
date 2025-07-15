@@ -1,5 +1,7 @@
-# Python Data Science
-NumPy | MatPlotLib | Pandas | Seaborn
+# Python Data Science --> NumPy | MatPlotLib | Pandas | Seaborn
+Hi, my name is Michael Liu, a Mathematics Student at the University of Waterloo in Waterloo, Ontario, Canada.
+
+I love data analytics and this repository is dedicated to my Python Data Science tutorials and projects.
 
 ## Tutorials:
 FreeCodeCamp Projects --> https://www.youtube.com/watch?v=gtjxAH8uaP0&t=16709s&ab_channel=freeCodeCamp.org
