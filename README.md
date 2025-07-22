@@ -1,4 +1,4 @@
-# Python Data Science --> Pandas | SciKit-Learn | MatPlotLib | NumPy | Seaborn
+# Python Data Science --> Pandas | SciKit-Learn | MatPlotLib | NumPy | Seaborn | Excel
 Hi, my name is Michael Liu, a Mathematics Student at the University of Waterloo in Waterloo, Ontario, Canada.
 
 I love data analytics and this repository is dedicated to my Python Data Science tutorials and projects.
@@ -9,6 +9,8 @@ FreeCodeCamp Projects --> https://www.youtube.com/watch?v=gtjxAH8uaP0&t=16709s&a
 FreeCodeCamp Python for Data Science --> https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=LL&index=2&ab_channel=freeCodeCamp.org
 
 Machine Learning with Python and Scikit-Learn – Full Course --> https://www.youtube.com/watch?app=desktop&v=hDKCxebp88A&ab_channel=freeCodeCamp.org
+
+Excel for Data Analytics --> https://www.youtube.com/watch?v=pCJ15nGFgVg&t=1173s&ab_channel=LukeBarousse
 
 ## Projects:
 Medical Data for Linear Regression --> https://raw.githubusercontent.com/JovianML/opendatasets/master/data/medical-charges.csv
