@@ -1,4 +1,4 @@
-# Python Data Science --> Pandas | SciKit-Learn | MatPlotLib | NumPy | Seaborn | Excel
+# Python Data Science --> Pandas | SciKit-Learn | MatPlotLib/Seaborn/Plotly | NumPy | Excel
 Hi, my name is Michael Liu, a Mathematics Student at the University of Waterloo in Waterloo, Ontario, Canada.
 
 I love data analytics and this repository is dedicated to my Python Data Science tutorials and projects.
