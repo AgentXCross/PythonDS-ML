@@ -37,8 +37,8 @@ I love data analytics and this repository is dedicated to my Python Data Science
 **Pokemon Data Analysis** -> [Dataset](https://www.kaggle.com/datasets/abcsds/pokemon/data)<br>
 &nbsp;&nbsp;• Basic Data Analysis and Visualization<br>
 
-**TheFuzz Library Analysis** -> [Dataset](companies_1.csv/companies_2.csv<br>
-&nbsp;&nbsp;• Data Cleaning using Levenshtein distance)<br>
+**TheFuzz Library Analysis** -> companies_1.csv/companies_2.csv<br>
+&nbsp;&nbsp;• Data Cleaning using Levenshtein distance<br>
 
 **Basketball Birthday Paradox Analysis** -> [Dataset](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=player_data.csv)<br>
 
