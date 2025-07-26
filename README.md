@@ -5,42 +5,42 @@ Hi, my name is **Michael Liu**, a Mathematics Student at the **University of Wat
 I love data analytics and this repository is dedicated to my Python Data Science tutorials and projects.
 
 ## Tutorials:
-**FreeCodeCamp Projects** -> https://www.youtube.com/watch?v=gtjxAH8uaP0&t=16709s&ab_channel=freeCodeCamp.org
+**FreeCodeCamp Projects** -> [Course Link](https://www.youtube.com/watch?v=gtjxAH8uaP0&t=16709s&ab_channel=freeCodeCamp.org)<br>
 
-**FreeCodeCamp Python for Data Science** -> https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=LL&index=2&ab_channel=freeCodeCamp.org<br>
-• NumPy, MatPlotLib, Pandas
+**FreeCodeCamp Python for Data Science** -> [Course Link](https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=LL&index=2&ab_channel=freeCodeCamp.org)<br>
+&nbsp;&nbsp;• NumPy, MatPlotLib, Pandas<br>
 
-**Machine Learning with Python and Scikit-Learn – Full Course** -> https://www.youtube.com/watch?app=desktop&v=hDKCxebp88A&ab_channel=freeCodeCamp.org<br>
-• Linear Regression/Gradient Descent<br>
-• Logistic Regression<br>
-• Decision Trees<br>
-• Unsupervised Learning<br>
-• Projects<br>
+**Machine Learning with Python and Scikit-Learn – Full Course** -> [Course Link](https://www.youtube.com/watch?app=desktop&v=hDKCxebp88A&ab_channel=freeCodeCamp.org)<br>
+&nbsp;&nbsp;• Linear Regression/Gradient Descent<br>
+&nbsp;&nbsp;• Logistic Regression<br>
+&nbsp;&nbsp;• Decision Trees<br>
+&nbsp;&nbsp;• Unsupervised Learning<br>
+&nbsp;&nbsp;• Projects<br>
 
-**Excel for Data Analytics** -> https://www.youtube.com/watch?v=pCJ15nGFgVg&t=1173s&ab_channel=LukeBarousse<br>
-• Formulas/Functions/Logic<br>
-• Charts<br>
-• Pivot Tables<br>
-• Power Query<br>
-• Power Pivot<br>
+**Excel for Data Analytics** -> [Course Link](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=1173s&ab_channel=LukeBarousse)<br>
+&nbsp;&nbsp;• Formulas/Functions/Logic<br>
+&nbsp;&nbsp;• Charts<br>
+&nbsp;&nbsp;• Pivot Tables<br>
+&nbsp;&nbsp;• Power Query<br>
+&nbsp;&nbsp;• Power Pivot<br>
 
 ## Projects:
-**Medical Data for Linear Regression** -> https://raw.githubusercontent.com/JovianML/opendatasets/master/data/medical-charges.csv<br>
-• SciKit-Learn Model Prediction from various factors (age, sex, bmi, etc.), Data Analysis and Visualization<br>
+**Medical Data for Linear Regression** -> [Dataset](https://raw.githubusercontent.com/JovianML/opendatasets/master/data/medical-charges.csv)<br>
+&nbsp;&nbsp;• SciKit-Learn Model Prediction from various factors (age, sex, bmi, etc.), Data Analysis and Visualization<br>
 
-**Google PlayStore App Analysis** -> https://www.kaggle.com/datasets/lava18/google-play-store-apps<br>
-• Data Cleaning, Data Standardization, Type Matching, Data Analysis<br>
+**Google PlayStore App Analysis** -> [Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)<br>
+&nbsp;&nbsp;• Data Cleaning, Data Standardization, Type Matching, Data Analysis<br>
 
-**Premier League Match Data Analysis** -> https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022<br>
-• Type Matching, Data Analysis<br>
+**Premier League Match Data Analysis** -> [Dataset](https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022)<br>
+&nbsp;&nbsp;• Type Matching, Data Analysis<br>
 
-**Pokemon Data Analysis** -> https://www.kaggle.com/datasets/abcsds/pokemon/data<br>
-• Basic Data Analysis and Visualization<br>
+**Pokemon Data Analysis** -> [Dataset](https://www.kaggle.com/datasets/abcsds/pokemon/data)<br>
+&nbsp;&nbsp;• Basic Data Analysis and Visualization<br>
 
-**TheFuzz Library Analysis** -> companies_1.csv/companies_2.csv<br>
-• Data Cleaning using Levenshtein distance<br>
+**TheFuzz Library Analysis** -> [Dataset](companies_1.csv/companies_2.csv<br>
+&nbsp;&nbsp;• Data Cleaning using Levenshtein distance)<br>
 
-**Basketball Birthday Paradox Analysis** -> https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=player_data.csv<br>
+**Basketball Birthday Paradox Analysis** -> [Dataset](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=player_data.csv)<br>
 
 
 
