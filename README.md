@@ -11,8 +11,8 @@ I love data analytics and this repository is dedicated to my Python Data Science
 &nbsp;&nbsp;• NumPy, MatPlotLib, Pandas<br>
 
 **Machine Learning with Python and Scikit-Learn – Full Course** -> [Course Link](https://www.youtube.com/watch?app=desktop&v=hDKCxebp88A&ab_channel=freeCodeCamp.org)<br>
-&nbsp;&nbsp;• Linear Regression/Gradient Descent<br>
-&nbsp;&nbsp;• Logistic Regression<br>
+&nbsp;&nbsp;• Linear Regression/Gradient Descent: Medical Charges Prediction based on age, bmi, sex, smoker status, etc.<br>
+&nbsp;&nbsp;• Logistic Regression: Austrailia Weather Binary Prediction on Precipitation based on temperature, evaporation, sunshine, wind, etc.<br>
 &nbsp;&nbsp;• Decision Trees<br>
 &nbsp;&nbsp;• Unsupervised Learning<br>
 &nbsp;&nbsp;• Projects<br>
@@ -27,6 +27,9 @@ I love data analytics and this repository is dedicated to my Python Data Science
 ## Projects:
 **Medical Data for Linear Regression** -> [Dataset](https://raw.githubusercontent.com/JovianML/opendatasets/master/data/medical-charges.csv)<br>
 &nbsp;&nbsp;• SciKit-Learn Model Prediction from various factors (age, sex, bmi, etc.), Data Analysis and Visualization<br>
+
+**Austrailia Weather Data for Logistic Regression** -> [Dataset](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)<br>
+&nbsp;&nbsp;• SciKit-Learn Model Binary Classification from various factors (temperature, wind, wind direction, etc.)
 
 **Google PlayStore App Analysis** -> [Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)<br>
 &nbsp;&nbsp;• Data Cleaning, Data Standardization, Type Matching, Data Analysis<br>
