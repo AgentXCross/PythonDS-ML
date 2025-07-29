@@ -25,6 +25,9 @@ I love data analytics and this repository is dedicated to my Python Data Science
 &nbsp;&nbsp;• Power Pivot<br>
 
 ## Projects:
+**Apple Stock Direction Prediction with Logistic Regression** -> Dataset imported from yfinance Python library
+&nbsp;&nbsp;• SciKit-Learn Model Prediction from features (1,2,3,5 day returns, IntraDay Returns, Volatility, etc.), Exploratory Data Analysis and Visualization with Seaborn and Plotly, Pipeline Creation with OneHotEncoding and MinMaxScaling<br>
+
 **Medical Data for Linear Regression** -> [Dataset](https://raw.githubusercontent.com/JovianML/opendatasets/master/data/medical-charges.csv)<br>
 &nbsp;&nbsp;• SciKit-Learn Model Prediction from various factors (age, sex, bmi, etc.), Data Analysis and Visualization<br>
 
