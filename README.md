@@ -20,8 +20,11 @@ I love data analytics and this repository is dedicated to my Python Data Science
 **Google PlayStore App Analysis** -> [Dataset](https://www.kaggle.com/datasets/lava18/google-play-store-apps)<br>
 &nbsp;&nbsp;• Data Cleaning, Data Standardization, Type Matching, Data Analysis<br>
 
+**NBA 2022-2023 Season Analysis** -> [Dataset1](https://www.kaggle.com/datasets/amirhosseinmirzaie/nba-players-stats2023-season) [Dataset2](https://www.kaggle.com/datasets/justinas/nba-players-data/data)<br>
+&nbsp;&nbsp;• Data Cleaning and Standardizing, Grouping + Aggregations, Joining<br>
+
 **Premier League Match Data Analysis** -> [Dataset](https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022)<br>
-&nbsp;&nbsp;• Type Matching, Data Analysis<br>
+&nbsp;&nbsp;• Type Matching, Data Analysis, Grouping<br>
 
 **Pokemon Data Analysis** -> [Dataset](https://www.kaggle.com/datasets/abcsds/pokemon/data)<br>
 &nbsp;&nbsp;• Basic Data Analysis and Visualization<br>
